@@ -8,3 +8,4 @@ scripts/**
 **/__pycache__/**
 *.vsix
 assets/logo-original.png
+assets/logo-prompt.txt
