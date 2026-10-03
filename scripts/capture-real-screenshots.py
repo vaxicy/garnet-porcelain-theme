@@ -39,7 +39,7 @@ WIDTH, HEIGHT = 1440, 900
 # Windows still draws a 1px dark frame line inside the visible frame bounds;
 # crop a few extra physical pixels so no dark outline survives the downscale.
 EXTRA_CROP = 3
-PUBLISHER = "lilin"
+PUBLISHER = "lilinhuang"
 NAME = "garnet-porcelain-theme"
 VERSION = "1.0.0"
 WORK_NAME = "garnet-porcelain-demo"   # demo folder name doubles as the window marker
