@@ -5,7 +5,7 @@
 <h1 align="center">Garnet Porcelain Theme</h1>
 
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=lilinhuang.garnet-porcelain-theme"><img src="https://img.shields.io/badge/VS%20Code-Theme-790D16?logo=visual-studio-code" alt="VS Code Theme"></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=lilin.garnet-porcelain-theme"><img src="https://img.shields.io/badge/VS%20Code-Theme-790D16?logo=visual-studio-code" alt="VS Code Theme"></a>
   <img src="https://img.shields.io/badge/version-1.0.0-86632D?logo=visual-studio-code" alt="version 1.0.0">
   <img src="https://img.shields.io/badge/Variants-Light%20%26%20Dark-426A86?logo=visual-studio-code" alt="Light and Dark variants">
   <a href="https://github.com/vaxicy/garnet-porcelain-theme/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Non--Commercial-lightgrey" alt="License: Non-Commercial"></a>
@@ -90,12 +90,12 @@ Every surface below is themed in both variants:
 
 Requires VS Code 1.80 or newer.
 
-1. Search for **Garnet Porcelain Theme** in the Extensions view (`Ctrl+Shift+X`), or open the [Marketplace page](https://marketplace.visualstudio.com/items?itemName=lilinhuang.garnet-porcelain-theme).
+1. Search for **Garnet Porcelain Theme** in the Extensions view (`Ctrl+Shift+X`), or open the [Marketplace page](https://marketplace.visualstudio.com/items?itemName=lilin.garnet-porcelain-theme).
 2. Or install from a VSIX: download `garnet-porcelain-theme-1.0.0.vsix`, open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`) and run **Extensions: Install from VSIX...**.
 
 需要 VS Code 1.80 或更高版本。
 
-1. 在扩展面板（`Ctrl+Shift+X`）搜索 **Garnet Porcelain Theme**，或打开 [Marketplace 页面](https://marketplace.visualstudio.com/items?itemName=lilinhuang.garnet-porcelain-theme)。
+1. 在扩展面板（`Ctrl+Shift+X`）搜索 **Garnet Porcelain Theme**，或打开 [Marketplace 页面](https://marketplace.visualstudio.com/items?itemName=lilin.garnet-porcelain-theme)。
 2. 也可以从 VSIX 安装：下载 `garnet-porcelain-theme-1.0.0.vsix`，打开命令面板（`Ctrl+Shift+P` / `Cmd+Shift+P`），运行 **Extensions: Install from VSIX...** 并选择该文件。
 
 Or from the command line:
@@ -103,7 +103,7 @@ Or from the command line:
 或使用命令行：
 
 ```
-ext install lilinhuang.garnet-porcelain-theme
+ext install lilin.garnet-porcelain-theme
 ```
 
 ## Activation / 启用
@@ -140,4 +140,4 @@ Found an unthemed area or want a tweak? Open an issue at [github.com/vaxicy/garn
 
 ## Publisher / 发布者
 
-Published by **lilinhuang** on the Visual Studio Code Marketplace.
+Published by **lilin** on the Visual Studio Code Marketplace.
