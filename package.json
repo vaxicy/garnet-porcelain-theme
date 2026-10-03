@@ -1,0 +1,46 @@
+{
+  "name": "garnet-porcelain-theme",
+  "displayName": "Garnet Porcelain Theme",
+  "description": "Garnet red, ivory porcelain, pale gold and dusty blue in coordinated light and dark themes.",
+  "version": "1.0.0",
+  "publisher": "lilinhuang",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "assets/icon.png",
+  "keywords": [
+    "theme",
+    "light",
+    "dark",
+    "garnet",
+    "porcelain",
+    "blue",
+    "ivory"
+  ],
+  "galleryBanner": {
+    "color": "#790D16",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaxicy/garnet-porcelain-theme"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Garnet Porcelain Theme Light",
+        "uiTheme": "vs",
+        "path": "./themes/garnet-porcelain-light-color-theme.json"
+      },
+      {
+        "label": "Garnet Porcelain Theme Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/garnet-porcelain-dark-color-theme.json"
+      }
+    ]
+  }
+}
